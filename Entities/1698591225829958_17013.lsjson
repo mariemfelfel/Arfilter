@@ -1,0 +1,30 @@
+{
+    "1698591225829958:17013": {
+        "IResourceController": {
+            "name": "production_4482046d-08ca-431c-beb6-6574701a532c_4482046d-08ca-431c-beb6-6574701a532c",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1698591225829688:16990",
+            "fileId": "1698591225914919:17055",
+            "originalId": "1698591617042623:82232",
+            "expected_hash": "99ca21c48b38a090243e55825aea526d"
+        },
+        "IResourceManager": {
+            "uid": "1698591225829688:16990",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1698591225914919:17055": {
+        "IFileManager": {
+            "path": "Files/File_1698591225914919_17055.oprfb"
+        }
+    },
+    "1698591617042623:82232": {
+        "IFileManager": {
+            "path": "Files/File_1698591617042623_82232.oprfb"
+        }
+    }
+}

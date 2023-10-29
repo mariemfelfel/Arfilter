@@ -1,0 +1,22 @@
+{
+    "1698591224807077:16777": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698591226029400:17081",
+            "resources": [
+                "1698591224814223:16784"
+            ]
+        }
+    },
+    "1698591226029400:17081": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/production_4482046d-08ca-431c-beb6-6574701a532c_4482046d-08ca-431c-beb6-6574701a532c/Materials"
+            }
+        }
+    }
+}

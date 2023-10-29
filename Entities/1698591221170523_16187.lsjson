@@ -1,0 +1,49 @@
+{
+    "1698591221170523:16187": {
+        "IResourceController": {
+            "name": "production_4482046d-08ca-431c-beb6-6574701a532c_4482046d-08ca-431c-beb6-6574701a532c",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698591225923354:17056",
+            "publicId": "1698591225999489:17076",
+            "expected_hash": "7e0f2cd7b212fd0795bee8af30e1b391",
+            "resources": [
+                "1698591224676651:16731",
+                "1698591224737352:16754",
+                "1698591224807077:16777",
+                "1698591225829958:17013"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Resource",
+                        "v": "1698591224814230:16785"
+                    }
+                ]
+            }
+        }
+    },
+    "1698591225923354:17056": {
+        "IFileManager": {
+            "path": "Files/File_1698591225923354_17056.glb"
+        }
+    },
+    "1698591225999489:17076": {
+        "IResourceController": {
+            "public": {
+                "path": "production_4482046d-08ca-431c-beb6-6574701a532c_4482046d-08ca-431c-beb6-6574701a532c.glb",
+                "hash": "7e0f2cd7b212fd0795bee8af30e1b391"
+            }
+        }
+    }
+}

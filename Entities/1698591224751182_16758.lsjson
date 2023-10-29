@@ -1,0 +1,66 @@
+{
+    "1698591224746152:16757": {
+        "IFileManager": {
+            "path": "Files/File_1698591224746152_16757.png"
+        }
+    },
+    "1698591224751182:16758": {
+        "IResourceController": {
+            "name": "1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698591224752532:16759",
+            "fileId": "1698591224746152:16757",
+            "originalId": "1698591224753286:16764",
+            "publicId": "1698591226026787:17078",
+            "expected_hash": "15c6ed054c5cd87fdac9bbf98859531f",
+            "additional": {
+                "originHash": "15c6ed054c5cd87fdac9bbf98859531f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1698591224752532:16759",
+            "name": "Files/File_1698591224746152_16757.jpg",
+            "flags": 1
+        }
+    },
+    "1698591224752532:16759": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "266",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "266",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698591224781404:16770"
+        }
+    },
+    "1698591224753286:16764": {
+        "IFileManager": {
+            "path": "Files/File_1698591224753286_16764.png"
+        }
+    },
+    "1698591224781404:16770": {
+        "IFileManager": {
+            "path": "Files/File_1698591224781404_16770.png"
+        }
+    },
+    "1698591226026787:17078": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/production_4482046d-08ca-431c-beb6-6574701a532c_4482046d-08ca-431c-beb6-6574701a532c/Textures/1.png",
+                "hash": "15c6ed054c5cd87fdac9bbf98859531f"
+            }
+        }
+    }
+}
